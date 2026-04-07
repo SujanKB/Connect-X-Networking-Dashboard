@@ -75,5 +75,3 @@ This dashboard can be used by:
 * Business intelligence professionals
 * Students and learners
 * Decision-makers
-
-If you tell me what **ConnectX dataset contains** (sales, game data, users, etc.), I can make this **more specific and impressive** so it stands out in your portfolio 🔥
